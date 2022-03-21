@@ -1561,3 +1561,125 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Get Seconds
 [2022.03.20-23.54.25:232][ 83]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.20-23.54.25:242][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
 [2022.03.20-23.54.25:289][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.03.20-23.56.00:219][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube68)
+[2022.03.20-23.57.53:256][385]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.20-23.57.54:858][385]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.20-23.57.54:868][385]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.20-23.57.54:904][385]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.20-23.58.03:094][306]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DeathZone
+[2022.03.20-23.58.03:175][306]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.20-23.58.05:881][532]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_DeathZone.BP_DeathZone
+[2022.03.21-00.17.58:910][197]BlueprintLog: New page: Compile BP_DeathZone
+[2022.03.21-00.17.59:004][197]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.03.21-00.18.01:666][465]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/BP_DeathZoneD0EF478C430B8D7ACDE1D1B80D5BF4E6.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Blueprints/BP_DeathZone.uasset'
+[2022.03.21-00.18.01:683][465]AssetCheck: New page: Asset Save: BP_DeathZone
+[2022.03.21-00.18.01:683][465]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_DeathZone.BP_DeathZone
+[2022.03.21-00.18.56:746][457]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.03.21-00.18.56:752][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.058
+[2022.03.21-00.18.56:752][457]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/BP_DeathZone] ([2] browsable assets)...
+[2022.03.21-00.18.56:753][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/BP_DeathZone]
+[2022.03.21-00.18.56:758][457]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/BP_DeathZone_Auto193923D49462B61E5CBAC9A98013CC778.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/Autosaves/Game/FirstPersonBP/Blueprints/BP_DeathZone_Auto1.uasset'
+[2022.03.21-00.18.56:760][457]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.03.21-00.19.58:534][645]BlueprintLog: New page: Compile BP_DeathZone
+[2022.03.21-00.19.58:617][645]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.03.21-00.20.03:118][154]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/BP_DeathZoneA8751E8E469AD1A528472CA9935080F4.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Blueprints/BP_DeathZone.uasset'
+[2022.03.21-00.20.03:132][154]AssetCheck: New page: Asset Save: BP_DeathZone
+[2022.03.21-00.20.03:132][154]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_DeathZone.BP_DeathZone
+[2022.03.21-00.21.36:669][160]BlueprintLog: New page: Compile BP_DeathZone
+[2022.03.21-00.21.36:727][160]LogBlueprint: Error: [AssetLog] C:\Users\BlueShark\Documents\Unreal Projects\Escape\Escape\Content\FirstPersonBP\Blueprints\BP_DeathZone.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To FirstPersonCharacter  to imply a specific type.
+[2022.03.21-00.21.36:727][160]LogBlueprint: Error: [AssetLog] C:\Users\BlueShark\Documents\Unreal Projects\Escape\Escape\Content\FirstPersonBP\Blueprints\BP_DeathZone.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2022.03.21-00.21.36:873][160]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.03.21-00.21.37:341][203]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/BP_DeathZone73FE2CA14AAC8E1F236CCA999BE8AE36.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Blueprints/BP_DeathZone.uasset'
+[2022.03.21-00.21.37:371][203]AssetCheck: New page: Asset Save: BP_DeathZone
+[2022.03.21-00.21.37:371][203]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_DeathZone.BP_DeathZone
+[2022.03.21-00.21.42:303][755]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.21-00.21.42:326][755]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.21-00.21.49:188][539]BlueprintLog: New page: Compile BP_DeathZone
+[2022.03.21-00.21.49:265][539]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2022.03.21-00.21.50:174][637]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/BP_DeathZoneA6DFC9924CD3F3FD5FB39D90AA8F306F.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Blueprints/BP_DeathZone.uasset'
+[2022.03.21-00.21.50:203][637]AssetCheck: New page: Asset Save: BP_DeathZone
+[2022.03.21-00.21.50:203][637]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/BP_DeathZone.BP_DeathZone
+[2022.03.21-00.22.11:734][905]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.21-00.22.11:760][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.21-00.22.11:760][905]PIE: New page: PIE session: FirstPersonExampleMap (21 mars 2022 à 02:22:11)
+[2022.03.21-00.22.11:789][905]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-00.22.11:831][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041997s)
+[2022.03.21-00.22.11:833][905]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-00.22.11:833][905]LogPlayLevel: PIE: World Init took: (0.001631s)
+[2022.03.21-00.22.11:833][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043899s)
+[2022.03.21-00.22.11:891][905]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2022.03.21-00.22.11:895][905]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.21-00.22.11:895][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.21-00.22.11:895][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.21-00.22.11:895][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.21-00.22.11:895][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.21-00.22.11:895][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.21-00.22.11:896][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.21-00.22.11:896][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.21-00.22.11:896][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.21-00.22.11:896][905]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.21-00.22.11:896][905]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.21-00.22.11:896][905]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.21-00.22.11:896][905]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.21-00.22.11:931][905]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.21-00.22.11:931][905]LogAudioMixer: Display: 1: FrontRight
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 2: FrontCenter
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 3: LowFrequency
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 4: BackLeft
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 5: BackRight
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 6: SideLeft
+[2022.03.21-00.22.11:932][905]LogAudioMixer: Display: 7: SideRight
+[2022.03.21-00.22.11:955][905]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Logitech G635/G633s Gaming Headset)
+[2022.03.21-00.22.11:955][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.21-00.22.11:955][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.21-00.22.11:955][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.21-00.22.11:956][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.21-00.22.11:956][905]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.21-00.22.11:956][905]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.03.21-00.22.11:957][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.21-00.22.11:957][905]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.21-00.22.11:957][905]LogInit: FAudioDevice initialized.
+[2022.03.21-00.22.11:957][905]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-00.22.11:965][905]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-00.22.11:975][905]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-01.22.11
+[2022.03.21-00.22.11:976][905]LogWorld: Bringing up level for play took: 0.010279
+[2022.03.21-00.22.11:976][905]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.03.21-00.22.11:979][905]LogBlueprintUserMessages: [FirstPersonHUD_C_0] Hello
+[2022.03.21-00.22.11:979][905]PIE: Server logged in
+[2022.03.21-00.22.11:980][905]PIE: Play in editor total start time 0,241 seconds.
+[2022.03.21-00.22.22:398][102]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.03.21-00.22.22:433][102]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2022.03.21-00.22.22:433][102]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-00.22.22:440][102]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-00.22.22:441][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-00.22.22:523][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-00.22.22:531][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.03.21-00.22.22:536][102]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-00.22.22:574][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038295s)
+[2022.03.21-00.22.22:575][102]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.21-00.22.22:576][102]LogPlayLevel: PIE: World Init took: (0.001668s)
+[2022.03.21-00.22.22:576][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040353s)
+[2022.03.21-00.22.22:576][102]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonExampleMap'.
+[2022.03.21-00.22.22:576][102]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.03.21-00.22.22:585][102]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.21-01.22.22
+[2022.03.21-00.22.22:586][102]LogWorld: Bringing up level for play took: 0.008247
+[2022.03.21-00.22.22:591][102]LogBlueprintUserMessages: [FirstPersonHUD_C_0] Hello
+[2022.03.21-00.22.22:642][102]LogLoad: Took 0.205099 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2022.03.21-00.22.29:373][873]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-119.088 Y=-519.162 Z=158.269] for [FirstPersonProjectile_C]
+[2022.03.21-00.22.29:637][904]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-118.958 Y=-518.591 Z=158.821] for [FirstPersonProjectile_C]
+[2022.03.21-00.22.45:604][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-00.22.45:617][795]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.21-00.22.45:640][795]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.21-00.22.45:641][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-00.22.45:662][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.21-00.22.45:676][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.21-00.22.45:723][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.21-00.22.45:724][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-00.22.45:725][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.21-00.22.45:728][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.21-00.22.45:734][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.03.21-00.22.45:813][796]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.03.21-00.22.55:982][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.03.21-00.22.56:138][864]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/FirstPersonExampleMap857ECB7A415C3260B59B86B55D2846DB.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.03.21-00.22.56:164][864]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.03.21-00.22.56:164][864]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
