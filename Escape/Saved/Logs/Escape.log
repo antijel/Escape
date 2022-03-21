@@ -2218,3 +2218,4 @@ Make sure 'FirstPersonCharacter_C' has been compiled for  Get Seconds
 [2022.03.21-17.14.38:348][584]LogSavePackage: Moving 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Saved/FirstPersonExampleMapDCD07CE0409A09C1CDAF908DE9FACEF3.tmp' to 'C:/Users/BlueShark/Documents/Unreal Projects/Escape/Escape/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2022.03.21-17.14.38:388][584]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2022.03.21-17.14.38:388][584]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.03.21-17.14.55:391][869]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
